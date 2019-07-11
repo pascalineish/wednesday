@@ -1,4 +1,13 @@
 h2{
     color:blue;
     text-align: center;
+    font-style: italic;
+}
+h3{
+color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
 }
